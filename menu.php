@@ -27,7 +27,7 @@
                 </div>
                
                 <div class="text-center">
-                    <a href="http://zend-lajiiz.fjeclot.net/autent/index.php">Torna a la pàgina inicial</a>
+                    <a href="http://zend-lajiiz.fjeclot.net/zendldapProject/index.php">Torna a la pàgina inicial</a>
                 </div>
             </div>
         </div>

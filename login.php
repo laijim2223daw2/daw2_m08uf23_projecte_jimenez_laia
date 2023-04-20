@@ -15,7 +15,7 @@
         <h1 class="text-center my-4">AUTENTICANT AMB LDAP DE L'USUARI admin</h1>
         <div class="row justify-content-center">
             <div class="col-md-6">
-                <form action="http://zend-lajiiz.fjeclot.net/autent/auth.php" method="POST">
+                <form action="http://zend-lajiiz.fjeclot.net/zendldapProject/auth.php" method="POST">
                     <div class="form-group">
                         <label for="adm">Usuari amb permisos d'administració LDAP:</label>
                         <input type="text" class="form-control" id="adm" name="adm" required>
