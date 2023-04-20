@@ -3,7 +3,7 @@
     <name>zendldap_Project</name>
     <summary>Project zendldap Laia Jimenez</summary>
     <version>
-        <release>1.0.3</release>
+        <release>1.0.4</release>
     </version>
     <appdir>data</appdir>
 </package>
