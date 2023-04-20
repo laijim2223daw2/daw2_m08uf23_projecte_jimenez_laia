@@ -115,6 +115,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </div>
 <input type="submit" value="Modificar Usuario" class="btn btn-primary">
 </form>
+<div class="text-center">
+	<a href="http://zend-lajiiz.fjeclot.net/zendldapProject/menu.php">Torna al menú</a>
+</div>
 </div>
 
 </body>

@@ -77,6 +77,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             </div>
             <input type="submit" value="Eliminar Usuario" class="btn btn-danger">
         </form>
+        <div class="text-center">
+    		<a href="http://zend-lajiiz.fjeclot.net/zendldapProject/menu.php">Torna al menú</a>
+    	</div>
     </div>
 </body>
 </html>
